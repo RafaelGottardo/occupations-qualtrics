@@ -114,6 +114,10 @@ Si vous publiez des résultats basés sur cette question, veuillez citer :
 
 Campos-Gottardo, R. & Kiss, S. (2025). *Occupations Qualtrics Module for Canadian Political Science Surveys*. GitHub repository: [https://github.com/RafaelGottardo/occupations-qualtrics](https://github.com/RafaelGottardo/occupations-qualtrics)
 
+# Related Works
+
+Kiss, S. & Campos-Gottardo, R. (2025). "Researching Post-Industrial Political Behaviour With The National Occupation Classification In The 2019 and 2021 Canada Election Studies." *Lispop Report.* https://scholars.wlu.ca/lispop/5/ 
+
 ## License
 
 This repository is dual-licensed to support both academic credit and open-source reuse.
